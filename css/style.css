@@ -1,0 +1,69 @@
+div {
+  background-color: rgb(179, 245, 247);
+}
+body {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: medium;
+  background-color: rgba(123, 248, 236, 0.192);
+}
+
+header {
+  background-color: azure;
+}
+
+nav {
+  padding: 3px;
+  background-color: beige;
+  margin-bottom: 15px;
+}
+
+main {
+  font-size: large;
+}
+
+footer {
+  background-color: rgba(8, 158, 143, 0.599);
+  font-size: 13px;
+  text-align: center;
+}
+
+ul {
+  text-align: center;
+}
+
+li {
+  display: inline-block;
+  margin: 0px 50px;
+}
+
+h1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  color: rgba(8, 158, 143, 0.599);
+  background-color: beige;
+  font-size: 30px;
+}
+
+p {
+  line-height: 1em;
+  background-color: beige;
+  color: rgba(8, 158, 143, 0.918);
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 200px;
+}
+
+.space {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  padding-bottom: 20px;
+}
+
+.base {
+  color: rgb(157, 165, 165);
+}
